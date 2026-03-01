@@ -8,6 +8,7 @@ const PrivateRoute = ({ children }) => {
     return (
       <div className="loading-container">
         <div className="loading-spinner"></div>
+        <p>Memuat...</p>
       </div>
     );
   }
