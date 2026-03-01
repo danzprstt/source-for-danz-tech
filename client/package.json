@@ -13,7 +13,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "cd client && npm install && npm run build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
